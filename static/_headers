@@ -1,0 +1,10 @@
+/*
+    Permissions-Policy: interest-cohort=()
+    X-Content-Type-Options: nosniff
+
+https://:project.pages.dev/*
+  Link: <https://docs.erisa.uk/:splat>; rel="canonical"
+  X-Robots-Tag: noindex
+
+https://:commit.:project.pages.dev/*
+  Link: <https://docs.erisa.uk/:splat>; rel="canonical"
