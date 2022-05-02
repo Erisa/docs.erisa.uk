@@ -66,7 +66,7 @@ module.exports = {
         },
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} Erisa A`,
-      copyright: `Copyright © 2021 Erisa A`,
+      copyright: `Copyright © 2022 Erisa A`,
     },
     prism: {
       theme: lightCodeTheme,
